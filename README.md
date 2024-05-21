@@ -38,20 +38,20 @@ To run this project locally, follow these steps:
    
   - You can simply open the index.html file in your preferred web browser to view the project.
 
-##Usage
+## Usage
 - Feel free to explore and interact with the different sections of the clone. The design aims to be as close to the original Hotstar website as possible.
 
-##Contributing
+## Contributing
 - ontributions are welcome! If you have any suggestions or improvements, please follow these steps:
 
-##Fork the repository
+## Fork the repository
 
 - Create a new branch (git checkout -b feature-branch)
 - Commit your changes (git commit -m 'Add some feature')
 - Push to the branch (git push origin feature-branch)
 - Open a Pull Request
 
-##Acknowledgements
+## Acknowledgements
 
 - Hotstar for the original design inspiration
 - Jeel Butani for developing this clone
